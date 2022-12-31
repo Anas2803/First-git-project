@@ -1,0 +1,4 @@
+build/
+// git will ignore/not keep track of the changes in the build directory
+*.txt 
+// git will ignore all the files ending with .txt i.e. all text files
