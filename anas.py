@@ -1,1 +1,2 @@
-print("Trying to reverse a commit after it's been commited")
+print("Trying to reverse last commit operation in git")
+// to discard the changes in a commit use git restore <file>
